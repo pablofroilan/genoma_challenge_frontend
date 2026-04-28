@@ -75,3 +75,9 @@ export default defineConfig({
   }
 })
 ```
+
+## Referencias
+
+- [Ant Design Documentation](https://ant.design/components/overview/)
+- [Vite Documentation](https://vitejs.dev/)
+- [React Documentation](https://react.dev/)
